@@ -24,3 +24,10 @@ String name = "Taro";
 int age = 25;
 double height = 170.5;
 ```
+
+### データ型を変更したい
+
+```
+(変換先の型) 変数名
+```
+
