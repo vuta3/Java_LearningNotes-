@@ -8,3 +8,8 @@
  |duble(ダブル)|少数を扱える数値|85.5|
  |String(ストリング)|文字列|"aya"|
  |boolean(ブーリアン)|真偽値|true|
+
+      ```bash
+     java --version
+     javac --version
+     ```
