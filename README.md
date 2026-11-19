@@ -12,6 +12,7 @@
 #### 記述例
 
 ```
-java --version
-javac --version
+String name = "Taro";
+int age = 25;
+double height = 170.5;
 ```
