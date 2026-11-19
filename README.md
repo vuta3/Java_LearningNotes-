@@ -9,7 +9,7 @@
  |String(ストリング)|文字列|"aya"|
  |boolean(ブーリアン)|真偽値|true|
 
-      ```bash
-     java --version
-     javac --version
-     ```
+```
+java --version
+javac --version
+```
