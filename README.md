@@ -9,7 +9,8 @@
  |String(ストリング)|文字列|"aya"|
  |boolean(ブーリアン)|真偽値|true|
 
-####記述例
+#### 記述例
+
 ```
 java --version
 javac --version
