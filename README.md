@@ -2,6 +2,8 @@
 
 ## 文字を出力したい
 
+#### 以下のように記述
+
 ```
 System.out.println("Hello, World!");
 ```
